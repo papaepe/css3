@@ -1,0 +1,26 @@
+h1{
+   text-transform: capitalize;
+}
+.p_pertama{
+    text-align: justify;
+}
+#p_kedua{
+    text-decoration: underline;
+}
+body{
+    color: white;
+    background-color: gray;
+}
+.p_tiga{
+    text-align: center;
+}
+.p_empat{
+    text-align: center;
+}
+.p_lima{
+    text-decoration: line-through;
+    color: cyan;
+}
+strong{
+    color: white;
+}
